@@ -3,3 +3,4 @@ https://github.com/3b1b/videos
 https://flyingframes--19.org.readthedocs.build/en/19/ch8.html
 http://jamie-wong.com/2014/08/19/metaballs-and-marching-squares/
 **https://github.com/ActOfLearning/Manim/blob/master/geomprob.py**
+https://github.com/cigar666/my_manim_projects
